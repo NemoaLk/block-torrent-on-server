@@ -3,7 +3,7 @@
 #
 # Credit to original author: sam https://github.com/NemoaLk/block-torrent-on-server
 # GitHub:   https://github.com/NemoaLk/block-torrent-on-server
-# Author:   sam nikzad
+# Author:   NemoaLk
 
 echo -n "Blocking all torrent trafic on your server. pls wait ... "
 wget -q -O/etc/trackers https://raw.githubusercontent.com/NemoaLk/block-torrent-on-server/main/domains
